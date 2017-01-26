@@ -6,7 +6,7 @@ To test www.wikipedia.org and verify the language of the page
 i) JDK 1.8.0_65
 ii) Eclipse Neon
 iii) Maven 3.3.9
-iV) JUnit 4.12
+iv) JUnit 4.12
 v) Serenity BDD 1.2.2
 vi) Selenium 3.0.1
 vii) Microsoft Windows 7
