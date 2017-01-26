@@ -27,11 +27,11 @@ ii) Import Navigator.java and Tester.java into the project
 iii) Open pom.xml and update serenity.version to 1.2.2 (pom.xml file is uploaded as a reference)
 iv) Add the following dependency to pom.xml (Please refer to the uploaded file) (Not needed if working in Firefox 47 and below)
 
-/     <dependency>
-        <groupId>org.seleniumhq.selenium</groupId>
+ <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-firefox-driver</artifactId>
         <version>3.0.1</version>
-    </dependency>  
+    </dependency> 
   
 v) Import Selenium 3.0.1 (JAR files) into the project (Not needed if working in Firefox 47 and below)
 vi) Run Navigation.java file
