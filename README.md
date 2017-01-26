@@ -25,7 +25,7 @@ These steps create a sample project in the directory you specified
 i) Import the projects from the directory to Eclipse
 ii) Import Navigator.java and Tester.java into the project
 iii) Open pom.xml and update serenity.version to 1.2.2 (pom.xml file is uploaded as a reference)
-iv) Add the following dependency to pom.xml (Please refer to the uploaded file) (Not needed if working in Firefox 47 and below)
+iv) Add the following dependency to pom.xml, (Please refer to the uploaded pom.xml file) (Not needed if working in Firefox 47 and below)
 
  <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
